@@ -1,6 +1,6 @@
 # SmartBrain - v1
 to pratice web development and lear react
-
+demo:https://smartbraindemo.herokuapp.com/
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
